@@ -10,10 +10,25 @@ ogImage:
   url: '/assets/blog/devcon/portada.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+### Este es mi primer post de blog, y aunque no soy un experto en esto, quiero compartir mi experiencia en Devcon.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## El evento:
+Te encontrarás con gente de todo el mundo, todos muy predispuestos a hablar sea con quien sea. La mayoría de la gente habla en inglés, pero siempre podrás encontrar a alguien de tu país. Las charlas suelen ser en inglés, aunque hay traductores disponibles para usar. Los principales eventos suelen ser muy concurridos, así que te recomiendo que hagas fila con tiempo en los que realmente te interesan mucho.
 
-## Lorem Ipsum
+![imagen panoramica del evento](/assets/blog/devcon/salon.jpg)
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## Descansar es importante!
+Estarás todo el día en el evento y durante toda una semana, así que lo más probable es que te agarre sueño en algún momento. Había dos salas especialmente ambientadas para descansar en silencio.
+
+![imagen panoramica del evento](/assets/blog/devcon/dormir.jpg)
+
+## Donde Comer?
+No hay problema con la comida, el evento se encarga de todo y te da desayuno, almuerzo y merienda todos los días, además de proveerte de bebidas y snacks durante todo el día.
+
+![imagen panoramica del evento](/assets/blog/devcon/menu.jpg)
+
+## Cowork
+Probablemente estarás de conferencia y trabajando al mismo tiempo. En este evento había un mega cowork en la cochera del salón.
+
+![imagen panoramica del evento](/assets/blog/devcon/cowork.jpg)
+
