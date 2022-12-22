@@ -7,6 +7,7 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import Post from '../interfaces/post'
+import Script from 'next/script'
 
 type Props = {
   allPosts: Post[]
@@ -22,6 +23,18 @@ export default function Index({ allPosts }: Props) {
           <title>Next.js Blog Example with {CMS_NAME}</title>
         </Head>
         <Container>
+        <Script
+      async src="https://www.googletagmanager.com/gtag/js?id=G-VV3G6ZNQZY"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-VV3G6ZNQZY');
+        `}
+      </Script>
           <Intro />
           {heroPost && (
             <HeroPost
